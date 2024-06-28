@@ -1,7 +1,7 @@
-<img src="https://www.canva.com/design/DAF-i_fO-fc/tbA8CxWAt4pmxOd6KVHD0g/edit?utm_content=DAF-i_fO-fc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Canva Design">
+
 
 <h1 align="center">Hi 👋, I'm Brian Waweru</h1>
-<h3 align="center">A passionate Java Full stack developer from Kenya</h3>
+<h3 align="center">A passionate and Aspiring Java Full stack developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briann-waweru&label=Profile%20views&color=0e75b6&style=flat" alt="briann-waweru" /> </p>
 
