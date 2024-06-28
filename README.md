@@ -1,11 +1,9 @@
-
-
 <h1 align="center">Hi 👋, I'm Brian Waweru</h1>
 <h3 align="center">A passionate and Aspiring Java Full stack developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briann-waweru&label=Profile%20views&color=0e75b6&style=flat" alt="briann-waweru" /> </p>
 
-- 🌱 I’m currently learning **Java, SQL, Git, Querydsl, MyBatis, Spring, Spring Boot,Spring WebFlux for Reactive Programming, AWS, Data Structures and Algorithms, NGIX, Redis**
+- 🌱 I’m currently learning **Java, SQL, Git, Querydsl, MyBatis, Spring, Spring Boot,Spring WebFlux for Reactive Programming, AWS, Data Structures and Algorithms, NGINX, Redis**
 
 - 💬 Ask me about **Java**
 
