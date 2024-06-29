@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **brianwaweru133@gmail.com**
 
-- ⚡ Fun fact **I think am Funny**
+- ⚡ Motivation Quote: **Software engineering is not just about writing code. It’s about solving problems and making lives better.**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
